@@ -1,0 +1,1 @@
+document.addEventListener&&window.addEventListener("pageshow",function(e){!e.persisted&&"back_forward"!==performance.getEntriesByType("navigation")[0].type||location.reload()},!1);
